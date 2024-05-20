@@ -1,12 +1,12 @@
-commit QmQh8Q3SqMEXFcpT5ThWU4BNejgZSQ1PfSa3gDxuvF1FmJ
+commit QmUpeqUCUFdArdhCGm1c7V67W4hPgv87pK9gk7S6x8yh8h
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: ac2b82970e72d489af8869fd610bb227a05d4b4f4caa111109863a4fbf4a195e795c4678482c835ec7ffe27c3fa1170f06e2441663c225a28e7e8e1aa4ec052b00
+Signature: f574f64ea5c34968ac889da10fc13054b67ce7f407adb3af66ac84d04c090af5004e1201e4eadb231a195603f3c0716ffcfbab2b3d11ce5ff5a573f5d45e4dbd00
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmQ57AbpF9aBL2rnqrccHnc2nbrKeLgg4FhzCCp33mCHz6
-Commit CID if containing only file hashes: QmPLtYc9zDWCneRnKedkr3drt3wTg6Ho6APS6V3qYQEx5j
+Commit CID if including git's SHA1: QmTjxbyzat7d6aXDNcBjrqTMGh1qy5Knu5kXNeidpL2oF3
+Commit CID if containing only file hashes: QmWBaVN2eHGErPXesipSH471Sx5V4kqk6DBZCr3R1yfXLv
 
 ------------------------------
 
@@ -17,75 +17,11 @@ Remote URL:
 
 ------------------------------
 
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp1'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp1'
-/usr/bin/touch -hcmd "2024-05-20 13:26:57.9031652510 -0300" 'Legacy/initial-folderstamping/.folderstamp1'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2585443010 -0300" 'Legacy/initial-folderstamping/.folderstamp1'
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp10'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp10'
-/usr/bin/touch -hcmd "2024-05-20 13:36:18.7583029240 -0300" 'Legacy/initial-folderstamping/.folderstamp10'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2585443010 -0300" 'Legacy/initial-folderstamping/.folderstamp10'
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp11'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp11'
-/usr/bin/touch -hcmd "2024-05-20 13:37:09.0798827260 -0300" 'Legacy/initial-folderstamping/.folderstamp11'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2585443010 -0300" 'Legacy/initial-folderstamping/.folderstamp11'
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp12'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp12'
-/usr/bin/touch -hcmd "2024-05-20 13:38:37.2345448700 -0300" 'Legacy/initial-folderstamping/.folderstamp12'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2595442530 -0300" 'Legacy/initial-folderstamping/.folderstamp12'
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp2'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp2'
-/usr/bin/touch -hcmd "2024-05-20 13:27:30.9735790630 -0300" 'Legacy/initial-folderstamping/.folderstamp2'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2605442050 -0300" 'Legacy/initial-folderstamping/.folderstamp2'
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp3'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp3'
-/usr/bin/touch -hcmd "2024-05-20 13:28:21.0711776870 -0300" 'Legacy/initial-folderstamping/.folderstamp3'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2605442050 -0300" 'Legacy/initial-folderstamping/.folderstamp3'
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp4'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp4'
-/usr/bin/touch -hcmd "2024-05-20 13:30:08.8833638860 -0300" 'Legacy/initial-folderstamping/.folderstamp4'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2605442050 -0300" 'Legacy/initial-folderstamping/.folderstamp4'
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp5'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp5'
-/usr/bin/touch -hcmd "2024-05-20 13:31:55.4874212770 -0300" 'Legacy/initial-folderstamping/.folderstamp5'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2605442050 -0300" 'Legacy/initial-folderstamping/.folderstamp5'
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp6'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp6'
-/usr/bin/touch -hcmd "2024-05-20 13:32:14.1995967210 -0300" 'Legacy/initial-folderstamping/.folderstamp6'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2605442050 -0300" 'Legacy/initial-folderstamping/.folderstamp6'
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp7'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp7'
-/usr/bin/touch -hcmd "2024-05-20 13:34:22.2077279000 -0300" 'Legacy/initial-folderstamping/.folderstamp7'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2605442050 -0300" 'Legacy/initial-folderstamping/.folderstamp7'
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp8'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp8'
-/usr/bin/touch -hcmd "2024-05-20 13:34:34.6463880180 -0300" 'Legacy/initial-folderstamping/.folderstamp8'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2605442050 -0300" 'Legacy/initial-folderstamping/.folderstamp8'
-chown -h 1000:1000 'Legacy/initial-folderstamping/.folderstamp9'
-chmod 0664 'Legacy/initial-folderstamping/.folderstamp9'
-/usr/bin/touch -hcmd "2024-05-20 13:35:00.2612617420 -0300" 'Legacy/initial-folderstamping/.folderstamp9'
-/usr/bin/touch -hcad "2024-05-20 13:40:13.2615441570 -0300" 'Legacy/initial-folderstamping/.folderstamp9'
-chown -h 1000:1000 'css/fa.css'
-chmod 0664 'css/fa.css'
-/usr/bin/touch -hcmd "2024-05-20 13:42:14.7702140990 -0300" 'css/fa.css'
-/usr/bin/touch -hcad "2024-05-20 13:43:20.7647071020 -0300" 'css/fa.css'
-chown -h 1000:1000 'css/stylesheet_0.css'
-chmod 0664 'css/stylesheet_0.css'
-/usr/bin/touch -hcmd "2024-05-20 13:33:33.5070000000 -0300" 'css/stylesheet_0.css'
-/usr/bin/touch -hcad "2024-05-20 13:43:20.7657070660 -0300" 'css/stylesheet_0.css'
-chown -h 1000:1000 'css/stylesheet_1.css'
-chmod 0664 'css/stylesheet_1.css'
-/usr/bin/touch -hcmd "2024-05-20 13:46:35.6085507400 -0300" 'css/stylesheet_1.css'
-/usr/bin/touch -hcad "2024-05-20 13:49:34.8541272850 -0300" 'css/stylesheet_1.css'
-chown -h 1000:1000 'img/page-background.jpeg'
-chmod 0644 'img/page-background.jpeg'
-/usr/bin/touch -hcmd "2023-07-03 18:34:50.0000000000 -0300" 'img/page-background.jpeg'
-/usr/bin/touch -hcad "2024-05-20 13:51:52.0573149780 -0300" 'img/page-background.jpeg'
+chown -h 1000:1000 'Legacy/origin-data/daniella-1688409288490/profile-avatar.jpeg'
+chmod 0755 'Legacy/origin-data/daniella-1688409288490/profile-avatar.jpeg'
+/usr/bin/touch -hcmd "2024-01-22 01:15:28.0000000000 -0300" 'Legacy/origin-data/daniella-1688409288490/profile-avatar.jpeg'
+/usr/bin/touch -hcad "2024-05-20 13:58:58.6655651710 -0300" 'Legacy/origin-data/daniella-1688409288490/profile-avatar.jpeg'
 chown -h 1000:1000 'index.html'
 chmod 0664 'index.html'
-/usr/bin/touch -hcmd "2024-05-20 13:51:45.9344318720 -0300" 'index.html'
-/usr/bin/touch -hcad "2024-05-20 13:51:52.0463151870 -0300" 'index.html'
-chown -h 1000:1000 'manifest.json'
-chmod 0664 'manifest.json'
-/usr/bin/touch -hcmd "2024-05-20 13:50:35.7548268250 -0300" 'manifest.json'
-/usr/bin/touch -hcad "2024-05-20 13:51:52.0513150920 -0300" 'manifest.json'
+/usr/bin/touch -hcmd "2024-05-20 13:57:47.5565396330 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-05-20 13:58:58.6675651440 -0300" 'index.html'
