@@ -1,0 +1,85 @@
+This folder: /home/daniella/Desktop/Tasks/4.Huge/Desktop/Tell.ie
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 108       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10785281    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-20 13:27:30.462572784 -0300
+Modify: 2024-05-20 13:27:30.487573091 -0300
+Change: 2024-05-20 13:27:30.487573091 -0300
+ Birth: 2024-05-20 13:27:30.462572784 -0300
+IPFS hash: QmUnRXXq5MPUF7EcM1uEGTgNXgV8fQETTVcjpcozewwNsv
+------------------------------
+  File: ./Daniella Mesquita.html
+  Size: 55639     	Blocks: 112        IO Block: 4096   regular file
+Device: 8,70	Inode: 9249890     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-20 13:26:42.219963480 -0300
+Modify: 2023-07-03 15:34:07.594076991 -0300
+Change: 2023-07-05 18:36:12.346955797 -0300
+ Birth: 2023-07-03 15:34:07.586077024 -0300
+IPFS hash: QmZLa6Tq8imJH3bmRbCv47SmSCxeNu1ed1oEAWnZi91PrY
+------------------------------
+  File: ./daniella-1688409288490/profile.json
+  Size: 141       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10785237    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-20 13:27:07.071281531 -0300
+Modify: 2023-07-03 18:34:48.000000000 -0300
+Change: 2024-05-20 13:27:07.072281543 -0300
+ Birth: 2024-05-20 13:27:07.071281531 -0300
+IPFS hash: QmQ1eNre5t9f9z6DsaDTXrndGDctBh1ivpSGpgCccz2JKQ
+------------------------------
+  File: ./daniella-1688409288490/zlkwGySJqlpg/tile-02-links-details.json
+  Size: 740       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10785280    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-20 13:27:07.078281619 -0300
+Modify: 2023-07-03 18:34:52.000000000 -0300
+Change: 2024-05-20 13:27:07.078281619 -0300
+ Birth: 2024-05-20 13:27:07.078281619 -0300
+IPFS hash: QmegqjCg1ApEDPktaCditAmB2bsqWMysF2w2qV2iF2hUQf
+------------------------------
+  File: ./daniella-1688409288490/zlkwGySJqlpg/page-background.jpeg
+  Size: 517150    	Blocks: 1016       IO Block: 4096   regular file
+Device: 8,70	Inode: 10785276    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-20 13:27:07.073281556 -0300
+Modify: 2023-07-03 18:34:50.000000000 -0300
+Change: 2024-05-20 13:27:07.077281607 -0300
+ Birth: 2024-05-20 13:27:07.073281556 -0300
+IPFS hash: Qmcyky7yYJX61BrqnN5b1f9YC5MEe1RxnHYy9ZZjaJr3u9
+------------------------------
+  File: ./daniella-1688409288490/zlkwGySJqlpg/page.json
+  Size: 178       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10785271    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-20 13:27:07.073281556 -0300
+Modify: 2023-07-03 18:34:48.000000000 -0300
+Change: 2024-05-20 13:27:07.073281556 -0300
+ Birth: 2024-05-20 13:27:07.073281556 -0300
+IPFS hash: QmNtF6jbWrVNqCN7PgYxUk2TvWCRfzL1dcC4Ke6BBuz9p6
+------------------------------
+  File: ./daniella-1688409288490/profile-avatar.jpeg
+  Size: 127424    	Blocks: 256        IO Block: 4096   regular file
+Device: 8,70	Inode: 10785250    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-20 13:27:09.541312650 -0300
+Modify: 2023-07-03 18:34:48.000000000 -0300
+Change: 2024-05-20 13:27:07.073281556 -0300
+ Birth: 2024-05-20 13:27:07.072281543 -0300
+IPFS hash: QmVPMmGbQLuHwXib9qFJipLNspawrBirN3i53kLLRCQjKb
+------------------------------
+  File: ./.folderstamp1
+  Size: 1076      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10783371    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-20 13:27:20.939455135 -0300
+Modify: 2024-05-20 13:26:57.903165251 -0300
+Change: 2024-05-20 13:27:03.635238093 -0300
+ Birth: 2024-05-20 13:26:57.690162534 -0300
+IPFS hash: Qmcx5qLBi8uxjpvmo4c1BDH9MMBozsg9pecTjAzDheTdTE
+------------------------------
